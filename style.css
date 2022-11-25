@@ -1,0 +1,13 @@
+body{
+   background: blue;
+}
+
+td{
+  background-color: darkturquoise;
+}
+
+ table tr td{
+  border: 2px solid;
+  border-color: orange;
+  font-size: 24px;
+}
